@@ -1,0 +1,2 @@
+calc cat + dog + fish + bulb =def orange 5
+calc orange =

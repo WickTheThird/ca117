@@ -1,0 +1,21 @@
+Sheila: 5, 8, 2, 1
+Miranda: 1, 2, 1, 2
+Jenny: 2, 3, 3
+Irene The Invincible: 1204
+Wendy O'Brien: 10, 2, 5
+Sonia: 14
+Sonia: 5, 8, 2, 1, 9, 11, 13, 7, 7
+The Woman With The Very Long Name: 208
+The Woman With The Very Very Very Long Name: 2, 9, 1, 1, 2, 3, 4, 5, 6, 9, 10, 9
+H: 11
+G: 12
+F: 13
+D: 18
+E: 17
+C: 16
+B: 15
+A: 14
+A B C: 1, 2, 3, 4, 5, 6
+D E F: 9, 10
+G H I: 10, 11, 12, 13, 14, 15, 16, 17
+J K L M N O P: 2, 3, 4, 5, 6, 7

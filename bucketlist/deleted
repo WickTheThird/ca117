@@ -1,0 +1,24 @@
+while i < len(equation):
+        if equation[i + 1] == "+":
+            pass
+        elif equation[i + 1] == "-":
+            pass
+        elif equation[i + 1] == "%":
+            pass
+        elif equation[i + 1] == "/":
+            pass
+        elif equation[i + 1] == "*":
+            pass
+        elif equation[i + 1] == "**":
+            pass
+        elif equation[i + 1] == "=":
+            return total
+        i += 1
+    
+
+import time
+start = time.time()
+
+time.sleep(1)
+end = time.time()
+print(f"Runtime of the program is {end - start}")
